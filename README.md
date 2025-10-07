@@ -143,7 +143,7 @@ La pantalla principal muestra el nombre de la aplicación, el campo de búsqueda
 
 En esta pantalla, el usuario puede escribir el nombre de una fruta, alimento o golosina para obtener información nutricional detallada (calorías, proteínas, carbohidratos, grasas, etc.).
 
-![Pantalla principal](capturas/screenshots_pantalla_busqueda.jpg)
+![Pantalla principal](Capturas/screenshots_pantalla_busqueda.jpg)
 
 ## **Datos de Ejemplo:**
 
