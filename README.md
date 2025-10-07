@@ -145,34 +145,67 @@ En esta pantalla, el usuario puede escribir el nombre de una fruta, alimento o g
 
 ![Pantalla principal](Capturas/screenshots_pantalla_busqueda.jpg)
 
+---
+
 ## **Datos de Ejemplo:**
 
 Manzana 🍎
 Banana 🍌
 Chocolate 🍫
 
-Características técnicas
+## **Características técnicas:**
 
-Peticiones HTTP con fetch API.
+-Peticiones HTTP con fetch API.
+-Integración directa con API Ninjas Nutrition.
+-Renderizado dinámico de los resultados.
+-Manejo de errores y respuestas nulas.
 
-Integración directa con API Ninjas Nutrition.
+--- 
 
-Renderizado dinámico de los resultados.
+## **8. Desarrollo y Extensións:**
+## **Próximas funcionalidades sugeridas:**
 
-Manejo de errores y respuestas nulas.
+-Agregar más alimentos y categorías.
+-Integrar recetas saludables relacionadas con cada alimento.
+-Mostrar calorías totales según la cantidad del alimento.
 
-8. Desarrollo y Extensión
-Próximas funcionalidades sugeridas:
-
-Agregar más alimentos y categorías.
-
-Integrar recetas saludables relacionadas con cada alimento.
-
-Mostrar calorías totales según la cantidad del alimento.
-
-Estructura para nuevas pantallas:
+## **Estructura para nuevas pantallas:**
 
 Se planea crear un archivo adicional dentro de app/recipes.js y una nueva ruta /recipes para mostrar las recetas recomendadas según el alimento buscado.
+
+---
+
+## **9. Troubleshooting**
+
+| Problema                               | Causa                                    | Solución                                               |
+| -------------------------------------- | ---------------------------------------- | ------------------------------------------------------ |
+| `package.json no existe`               | Se ejecutó el comando fuera del proyecto | Navegar a la carpeta raíz antes de ejecutar            |
+| Error con `_layout.js` y `_layout.tsx` | Conflicto de rutas en Expo Router        | Eliminar uno de los dos archivos duplicados            |
+| “Command not recognized”               | Falta de PATH de Node.js                 | Reinstalar Node.js o configurar la variable de entorno |
+
+
+
+## **Comandos comunes:**
+
+npx expo start        # Inicia la app
+npm install           # Instala dependencias
+git add .             # Agrega cambios
+git commit -m "Update"
+git push              # Sube al repositorio
+
+---
+
+## **10. Recursos y Documentación**
+
+Documentación oficial de React Native
+Expo Documentation
+API Ninjas Nutrition
+Guía de Markdown para GitHub
+
+
+
+
+
 
 
 In the output, you'll find options to open the app in a
