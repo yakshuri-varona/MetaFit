@@ -135,9 +135,15 @@ Si ocurre un error con package.json, asegúrate de estar en la carpeta raíz del
 ## **Pantalla principal:**
 La pantalla principal muestra el nombre de la aplicación, el campo de búsqueda y las opciones de navegación.
 
+![Pantalla principal](Capturas/screenshots_pantalla_principal.png.jpg)
+
+---
+
 ## **Pantalla de busqueda:**
 
 En esta pantalla, el usuario puede escribir el nombre de una fruta, alimento o golosina para obtener información nutricional detallada (calorías, proteínas, carbohidratos, grasas, etc.).
+
+![Pantalla principal](capturas/screenshots_pantalla_busqueda.jpg)
 
 ## **Datos de Ejemplo:**
 
