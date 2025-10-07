@@ -135,7 +135,7 @@ Si ocurre un error con package.json, asegúrate de estar en la carpeta raíz del
 ## **Pantalla principal:**
 La pantalla principal muestra el nombre de la aplicación, el campo de búsqueda y las opciones de navegación.
 
-![Pantalla principal](Capturas/screenshots_pantalla_principal.png.jpg)
+![Pantalla principal](Capturas/screenshots_pantalla_principal.pgn.jpg)
 
 ---
 
